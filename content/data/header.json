@@ -13,15 +13,6 @@
     },
     "primaryLinks": [
         {
-            "label": "BhHELLO",
-            "altText": "Blog",
-            "url": "/blog",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "type": "Button",
             "label": "Get started",
             "altText": "",
